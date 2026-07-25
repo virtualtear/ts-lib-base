@@ -1,7 +1,7 @@
 {
   "name": "ts-lib-base",
   "version": "0.0.0",
-  "description": "A TypeScript library.",
+  "description": "A GitHub template for starting ESM-only TypeScript libraries, with build, test, lint, and release tooling wired up.",
   "keywords": [],
   "homepage": "https://github.com/virtualtear/ts-lib-base#readme",
   "bugs": {
